@@ -3423,10 +3423,10 @@ msgid "Net Loss"
 msgstr "Perte nette"
 
 msgid "Ask trade size"
-msgstr "Demandez la taille du commerce"
+msgstr "Taille du commerce de l'offre"
 
 msgid "Bid trade size"
-msgstr "Taille du commerce d’enchères"
+msgstr "Taille du commerce de la demande"
 
 msgid "Bid/Ask reset"
 msgstr "Enchère/Demande de réinitialisation"
